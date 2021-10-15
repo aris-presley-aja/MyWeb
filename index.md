@@ -53,7 +53,7 @@ Syntax highlighted code block
 
 
 
-```markdown
+
 <!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
 <script>
@@ -90,7 +90,6 @@ Syntax highlighted code block
     }
   });
 </script>
-```
 
 ### Jekyll Themes
 

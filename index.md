@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+Hello Aris Presley here
 
-Maybe say a some things about yourself.
+on thin mini web here were my Data , Cv and Achievement 
 
-Or maybe what you plan to blog about.
+My Simple Art
+
+and on here im doing many test for js and css

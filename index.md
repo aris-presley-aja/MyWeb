@@ -4,7 +4,9 @@
 <!-- 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
  -->
-<br> ##Cv
+
+<br><br> ##Cv
+<br><br>
 here was my cv im embedding to this page
 ```markdown
 Syntax highlighted code block

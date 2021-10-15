@@ -53,7 +53,7 @@ Syntax highlighted code block
 
 
 
-
+```markdown
 <!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
 <script>
@@ -71,6 +71,9 @@ Syntax highlighted code block
         required: true,
         placeholder: "your@email.com"
       },
+ 
+ ],
+    fields: [
       {
         type: "textarea",
         label: "Message:",
@@ -89,10 +92,8 @@ Syntax highlighted code block
     }
   });
 </script>
+```
 
-
-<!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
- -->
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aris-presley-aja/MyWeb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.

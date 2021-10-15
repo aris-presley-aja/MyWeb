@@ -4,7 +4,7 @@
 <!-- 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
  -->
-</img class="mail">
+
 <br><br> ## Cv
 <br><br>
 
@@ -72,8 +72,6 @@ Syntax highlighted code block
         placeholder: "your@email.com"
       },
  
- ],
-    fields: [
       {
         type: "textarea",
         label: "Message:",

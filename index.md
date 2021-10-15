@@ -52,8 +52,6 @@ Syntax highlighted code block
 
 
 
-
-
 <!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
 <script>
@@ -71,7 +69,6 @@ Syntax highlighted code block
         required: true,
         placeholder: "your@email.com"
       },
- 
       {
         type: "textarea",
         label: "Message:",
@@ -90,3 +87,20 @@ Syntax highlighted code block
     }
   });
 </script>
+
+
+<form
+  action="https://formspree.io/f/xpzkewqv"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>

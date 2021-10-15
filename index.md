@@ -4,7 +4,7 @@
 <!-- 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
  -->
-
+</img class="mail">
 <br><br> ## Cv
 <br><br>
 
@@ -49,6 +49,28 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+
+
+
+
+
+<form
+  action="https://formspree.io/f/xpzkewqv"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

@@ -5,9 +5,11 @@
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
  -->
 
-<br><br> ##Cv
+<br><br> ## Cv
 <br><br>
+
 here was my cv im embedding to this page
+
 ```markdown
 Syntax highlighted code block
 
@@ -26,7 +28,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 <br><br>
-##My Art
+## My Art
+
 and here was i did for most of the rest my life
 
 ```markdown

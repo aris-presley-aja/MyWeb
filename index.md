@@ -73,16 +73,16 @@ Syntax highlighted code block
         type: "textarea",
         label: "Message:",
         name: "message",
-        placeholder: "What's on your mind?",
+        placeholder: "Sending Message",
       },
       { type: "submit" }      
     ],
     styles: {
       title: {
-        backgroundColor: "gray"
+        backgroundColor: "lightgray"
       },
       button: {
-        backgroundColor: "gray"
+        backgroundColor: "lightblue"
       }
     }
   });

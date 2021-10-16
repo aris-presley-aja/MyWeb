@@ -87,6 +87,6 @@ Syntax highlighted code block
     }
   });
 </script>
-<div id="container" style="width:700px;">
+<div id="table" style="width:700px;">
     </div>
      

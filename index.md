@@ -32,7 +32,7 @@ Syntax highlighted code block
 
 and here was i did for most of the rest my life
 
-```markdown
+```
 Aris Priyanto
 
 Menyukai Web Programming, terutama Frame Work Code Igniter Vuejs NodeJs.

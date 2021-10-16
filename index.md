@@ -79,7 +79,7 @@ Syntax highlighted code block
     ],
     styles: {
       title: {
-        backgroundColor: "lightgray"
+        backgroundColor: "red"
       },
       button: {
         backgroundColor: "lightblue"
